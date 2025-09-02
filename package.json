@@ -16,6 +16,10 @@
   },
   "dependencies": {
     "@asteasolutions/zod-to-openapi": "^8.1.0",
+    "@mantine/core": "^8.2.8",
+    "@mantine/hooks": "^8.2.8",
+    "@mantine/notifications": "^8.2.8",
+    "@tabler/icons-react": "^3.34.1",
     "hono": "4.8.2",
     "react": "19.0.0",
     "react-dom": "19.0.0",
